@@ -1,6 +1,7 @@
 # RISC Zero Verifier WASM
 
 This project demonstrates how to verify RISC Zero receipts in a web browser using WebAssembly (WASM).
+![image](https://github.com/user-attachments/assets/41d17161-18d8-4cbe-8abc-d527ed914845)
 
 ## Prerequisites
 
